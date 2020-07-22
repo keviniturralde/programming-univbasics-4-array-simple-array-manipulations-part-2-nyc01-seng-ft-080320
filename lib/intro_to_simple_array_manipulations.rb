@@ -17,6 +17,6 @@ end
 def using_delete (array, item)
   array.delete (item)
 end
-def unsing_delete_at (array, num)
+def using_delete_at (array, num)
   array.delete_at(num)
 end
