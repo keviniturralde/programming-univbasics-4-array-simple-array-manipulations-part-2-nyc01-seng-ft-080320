@@ -16,3 +16,4 @@ end
 
 def using_delete (array, item)
   array.delete (items)
+end
